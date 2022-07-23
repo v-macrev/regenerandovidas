@@ -1668,6 +1668,7 @@
   }
 } .u-section-10 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("images/pexels-kulbir-11408206.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-10 .u-sheet-1 {
@@ -1773,10 +1774,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-10 {
-    background-position: 50% 50%;
-  }
-
   .u-section-10 .u-sheet-1 {
     min-height: 1583px;
   }
@@ -1793,12 +1790,13 @@
   }
 
   .u-section-10 .u-group-elements-2 {
+    margin-top: -542px;
     margin-right: 172px;
-    margin-left: 683px;
+    margin-left: auto;
   }
 
   .u-section-10 .u-group-elements-3 {
-    margin-top: -1186px;
+    margin-top: -1185px;
     margin-left: 168px;
   }
 
@@ -1819,7 +1817,7 @@
   }
 
   .u-section-10 .u-group-elements-2 {
-    margin-left: 386px;
+    margin-right: 77px;
   }
 
   .u-section-10 .u-group-elements-3 {
@@ -1844,11 +1842,10 @@
 
   .u-section-10 .u-group-elements-2 {
     margin-right: 0;
-    margin-left: 283px;
   }
 
   .u-section-10 .u-group-elements-3 {
-    margin-top: -1116px;
+    margin-top: -1115px;
     margin-left: 0;
   }
 
@@ -1870,12 +1867,11 @@
 
   .u-section-10 .u-group-elements-1 {
     margin-top: 1256px;
-    margin-left: 83px;
+    margin-left: auto;
   }
 
   .u-section-10 .u-group-elements-2 {
     margin-top: 55px;
-    margin-left: 83px;
     margin-right: auto;
   }
 
