@@ -26,7 +26,6 @@
 .u-section-1 .u-group-elements-1 {
   width: 179px;
   min-height: 62px;
-  height: auto;
   margin: -79px auto 0 calc(((100% - 1140px) / 2) + 400px);
 }
 
@@ -81,6 +80,7 @@
 
   .u-section-1 .u-group-elements-1 {
     margin-left: calc(((100% - 940px) / 2) + 400px);
+    height: auto;
   }
 
   .u-section-1 .u-video-1 {
@@ -298,7 +298,6 @@
 
 .u-section-3 .u-repeater-1 {
   min-height: 599px;
-  grid-auto-columns: calc(33.3333% - 6.66667px);
   grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
   grid-gap: 10px 10px;
 }
@@ -448,8 +447,6 @@
 
   .u-section-3 .u-repeater-1 {
     min-height: 496px;
-    grid-auto-columns: calc(33.333333333333336% - 6.66667px);
-    grid-template-columns: repeat(3, calc(33.333333333333336% - 6.66667px));
   }
 }
 
@@ -460,7 +457,6 @@
 
   .u-section-3 .u-repeater-1 {
     min-height: 1140px;
-    grid-auto-columns: 100%;
     grid-template-columns: 100%;
   }
 
@@ -676,7 +672,6 @@
 
 .u-section-6 .u-repeater-1 {
   grid-gap: 10px 10px;
-  grid-auto-columns: calc(50% - 5px);
   grid-template-columns: calc(50% - 5px) calc(50% - 5px);
   min-height: 1019px;
 }
@@ -689,7 +684,6 @@
   margin-top: 0;
   margin-bottom: 0;
   min-height: 494px;
-  height: auto;
 }
 
 .u-section-6 .u-container-layout-2 {
@@ -721,7 +715,6 @@
   margin-top: 0;
   margin-bottom: 0;
   min-height: 494px;
-  height: auto;
 }
 
 .u-section-6 .u-container-layout-4 {
@@ -753,7 +746,6 @@
   margin-top: 0;
   margin-bottom: 0;
   min-height: 494px;
-  height: auto;
 }
 
 .u-section-6 .u-container-layout-6 {
@@ -785,7 +777,6 @@
   margin-top: 0;
   margin-bottom: 0;
   min-height: 494px;
-  height: auto;
 }
 
 .u-section-6 .u-container-layout-8 {
@@ -828,12 +819,7 @@
   }
 
   .u-section-6 .u-repeater-1 {
-    grid-template-columns: repeat(2, calc(50% - 5px));
     min-height: 840px;
-  }
-
-  .u-section-6 .u-group-1 {
-    height: auto;
   }
 
   .u-section-6 .u-text-2 {
@@ -841,26 +827,14 @@
     margin-right: 0;
   }
 
-  .u-section-6 .u-group-2 {
-    height: auto;
-  }
-
   .u-section-6 .u-text-4 {
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-6 .u-group-3 {
-    height: auto;
-  }
-
   .u-section-6 .u-text-6 {
     margin-left: 0;
     margin-right: 0;
-  }
-
-  .u-section-6 .u-group-4 {
-    height: auto;
   }
 
   .u-section-6 .u-text-8 {
@@ -878,7 +852,6 @@
   }
 
   .u-section-6 .u-repeater-1 {
-    grid-auto-columns: calc(100% - 0px);
     grid-template-columns: 100%;
     min-height: 2086px;
   }
@@ -897,10 +870,6 @@
 @media (max-width: 767px) {
   .u-section-6 .u-list-1 {
     margin-top: 50px;
-  }
-
-  .u-section-6 .u-repeater-1 {
-    grid-auto-columns: 100%;
   }
 
   .u-section-6 .u-container-layout-2 {
@@ -1685,7 +1654,6 @@
 .u-section-10 .u-group-elements-1 {
   width: 257px;
   min-height: 542px;
-  height: auto;
   margin: 81px auto 0 585px;
 }
 
@@ -1708,7 +1676,6 @@
 .u-section-10 .u-group-elements-2 {
   width: 257px;
   min-height: 542px;
-  height: auto;
   margin: -541px auto 0 871px;
 }
 
@@ -1731,7 +1698,6 @@
 .u-section-10 .u-group-elements-3 {
   width: 257px;
   min-height: 541px;
-  height: auto;
   margin: -542px auto 0 12px;
 }
 
@@ -1753,7 +1719,6 @@
 .u-section-10 .u-group-elements-4 {
   width: 257px;
   min-height: 541px;
-  height: auto;
   margin: -541px auto 60px 299px;
 }
 
@@ -1785,22 +1750,26 @@
   }
 
   .u-section-10 .u-group-elements-1 {
+    height: auto;
     margin-top: 756px;
     margin-left: 168px;
   }
 
   .u-section-10 .u-group-elements-2 {
+    height: auto;
     margin-top: -542px;
     margin-right: 172px;
     margin-left: auto;
   }
 
   .u-section-10 .u-group-elements-3 {
+    height: auto;
     margin-top: -1185px;
     margin-left: 168px;
   }
 
   .u-section-10 .u-group-elements-4 {
+    height: auto;
     margin-right: 172px;
     margin-left: auto;
   }
@@ -1903,7 +1872,6 @@
 
 .u-section-11 .u-repeater-1 {
   min-height: 688px;
-  grid-auto-columns: 100%;
   grid-template-columns: 100%;
   grid-gap: 10px 10px;
 }
@@ -2732,7 +2700,7 @@
 
 .u-section-13 .u-image-1 {
   width: 528px;
-  object-position: 30.84% 50%;
+  object-position: 43.63% 50%;
   left: auto;
   right: 0;
 }
