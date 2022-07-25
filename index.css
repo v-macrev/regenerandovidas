@@ -929,7 +929,7 @@
 }
 
 .u-section-7 .u-sheet-1 {
-  min-height: 611px;
+  min-height: 50vw;
 }
 
 .u-section-7 .u-image-1 {
@@ -947,15 +947,15 @@
 
 .u-section-7 .u-image-2 {
   width: 597px;
-  height: 611px;
   object-position: 50% 19.51%;
-  margin: -527px 0 0 auto;
+  left: auto;
+  right: 0;
 }
 
 .u-section-7 .u-text-2 {
   font-weight: 700;
   font-size: 2.25rem;
-  margin: -569px 762px 356px 80px;
+  margin: -569px 762px 60px 80px;
 }
 
 @media (max-width: 1199px) {
@@ -978,8 +978,6 @@
 
   .u-section-7 .u-image-2 {
     width: 470px;
-    height: 577px;
-    margin-top: -520px;
   }
 
   .u-section-7 .u-text-2 {
@@ -1006,9 +1004,6 @@
 
   .u-section-7 .u-image-2 {
     width: 360px;
-    height: 541px;
-    margin-top: -1px;
-    margin-right: auto;
   }
 
   .u-section-7 .u-text-2 {
@@ -1032,11 +1027,7 @@
   }
 
   .u-section-7 .u-image-2 {
-    height: 498px;
-    margin-top: 44px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    width: 597px;
   }
 
   .u-section-7 .u-text-2 {
@@ -1061,14 +1052,6 @@
 
   .u-section-7 .u-text-1 {
     margin-top: -664px;
-  }
-
-  .u-section-7 .u-image-2 {
-    height: 410px;
-    margin-top: -20px;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
   }
 
   .u-section-7 .u-text-2 {
@@ -1637,7 +1620,6 @@
   }
 } .u-section-10 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("images/pexels-kulbir-11408206.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-10 .u-sheet-1 {
@@ -1739,6 +1721,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-10 {
+    background-position: 50% 50%;
+  }
+
   .u-section-10 .u-sheet-1 {
     min-height: 1583px;
   }
@@ -2707,7 +2693,7 @@
 
 .u-section-13 .u-text-2 {
   font-size: 1.25rem;
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  text-shadow: 2px 2px 25px rgba(0,0,0,1);
   margin: 20px 401px 0 53px;
 }
 
