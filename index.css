@@ -183,15 +183,15 @@
 
 .u-section-2 .u-image-1 {
   object-position: 49.44% 59.14%;
-  height: 466px;
-  margin-top: 1px;
+  height: 467px;
+  margin-top: 0;
   margin-bottom: 0;
 }
 
 .u-section-2 .u-image-2 {
   height: 174px;
   object-position: 50% 13.01%;
-  margin-top: -26px;
+  margin-top: -25px;
   margin-bottom: 0;
 }
 
@@ -242,13 +242,11 @@
 
   .u-section-2 .u-image-1 {
     object-position: 50% 10.89%;
-    height: 798px;
-    margin-top: 2px;
+    height: 800px;
   }
 
   .u-section-2 .u-image-2 {
     height: 200px;
-    margin-top: -25px;
   }
 
   .u-section-2 .u-text-1 {
@@ -336,35 +334,34 @@
 
   .u-section-2 .u-image-1 {
     height: 935px;
-    margin-top: 3px;
   }
 
   .u-section-2 .u-image-2 {
     height: 153px;
-    margin-top: -16px;
+    margin-top: -25px;
   }
 
   .u-section-2 .u-text-1 {
-    margin-top: -1031px;
+    margin-top: -930px;
   }
 
   .u-section-2 .u-text-2 {
     font-size: 1.25rem;
-    margin-top: 36px;
+    margin-top: 25px;
   }
 
   .u-section-2 .u-text-3 {
-    margin-top: 15px;
+    margin-top: 8px;
   }
 
   .u-section-2 .u-text-4 {
     line-height: 1.2;
-    margin-top: 163px;
+    margin-top: 181px;
   }
 
   .u-section-2 .u-btn-1 {
-    margin-top: 35px;
-    margin-bottom: 60px;
+    margin-top: 8px;
+    margin-bottom: 188px;
   }
 }
 
@@ -379,13 +376,11 @@
 
   .u-section-2 .u-image-2 {
     height: 97px;
-    margin-top: -76px;
   }
 
   .u-section-2 .u-text-1 {
     font-size: 1.875rem;
     width: 340px;
-    margin-top: -944px;
     margin-left: auto;
     margin-right: auto;
   }
