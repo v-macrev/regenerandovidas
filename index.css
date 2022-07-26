@@ -144,8 +144,9 @@
   .u-section-1 .u-image-1 {
     object-position: 100% 50%;
     height: 558px;
-    width: 440px;
+    width: 422px;
     margin-top: 115px;
+    margin-right: auto;
   }
 
   .u-section-1 .u-text-1 {
@@ -1931,7 +1932,6 @@
 
 @media (max-width: 991px) {
    .u-section-10 {
-    background-position: 50% 50%;
     min-height: 1769px;
   }
 
@@ -2019,22 +2019,22 @@
   }
 
   .u-section-10 .u-group-elements-2 {
-    margin-top: 49px;
-    margin-right: calc(((100% - 340px) / 2));
+    margin-top: 51px;
+    margin-right: auto;
   }
 
   .u-section-10 .u-group-elements-3 {
-    margin-top: -2304px;
+    margin-top: -2306px;
     margin-left: auto;
   }
 
   .u-section-10 .u-group-elements-4 {
-    margin-top: 40px;
-    margin-right: calc(((100% - 340px) / 2));
+    margin-top: 41px;
+    margin-right: auto;
   }
 
   .u-section-10 .u-group-1 {
-    margin-top: 1251px;
+    margin-top: 1250px;
     margin-bottom: 1px;
   }
 
