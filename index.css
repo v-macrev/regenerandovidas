@@ -1929,7 +1929,6 @@
 
 @media (max-width: 991px) {
    .u-section-10 {
-    background-position: 50% 50%;
     min-height: 1769px;
   }
 
@@ -1960,6 +1959,7 @@
 
 @media (max-width: 767px) {
    .u-section-10 {
+    background-position: 50% 50%;
     min-height: 1795px;
   }
 
