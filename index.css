@@ -383,7 +383,7 @@
   .u-section-2 .u-text-1 {
     font-size: 1.875rem;
     width: 340px;
-    margin-top: -1000px;
+    margin-top: -945px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -398,6 +398,7 @@
   .u-section-2 .u-text-3 {
     font-size: 1.5rem;
     width: 340px;
+    margin-top: 17px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -406,7 +407,7 @@
     font-size: 1.25rem;
     text-transform: uppercase;
     width: 340px;
-    margin-top: 170px;
+    margin-top: 134px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -1750,6 +1751,7 @@
   }
 } .u-section-10 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("images/pexels-kulbir-11408206.jpg");
+  background-position: 50% 50%;
   min-height: 1128px;
 }
 
@@ -1888,7 +1890,6 @@
 
 @media (max-width: 1199px) {
    .u-section-10 {
-    background-position: 50% 50%;
     min-height: 1630px;
   }
 
