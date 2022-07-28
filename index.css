@@ -1950,7 +1950,6 @@
 } .u-section-10 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("images/pexels-kulbir-11408206.jpg");
   min-height: 1060px;
-  background-position: 50% 50%;
 }
 
 .u-section-10 .u-text-1 {
@@ -2084,6 +2083,7 @@
 
 @media (max-width: 1199px) {
    .u-section-10 {
+    background-position: 50% 50%;
     min-height: 1634px;
   }
 
