@@ -882,7 +882,6 @@
   font-size: 3rem;
   font-weight: 700;
   text-transform: uppercase;
-  background-image: none;
   margin: 36px auto 59px;
   padding: 0 51px;
 }
@@ -1729,7 +1728,6 @@
   font-size: 2.25rem;
   font-weight: 700;
   text-transform: uppercase;
-  background-image: none;
   margin: 66px auto 60px;
   padding: 9px 65px 11px 64px;
 }
@@ -2303,7 +2301,7 @@
 
 .u-section-11 .u-text-2 {
   font-size: 1.25rem;
-  margin: -84px 0 0 152px;
+  margin: -84px 0 20px 152px;
 }
 
 .u-section-11 .u-container-layout-2 {
@@ -2374,7 +2372,6 @@
   font-size: 2.25rem;
   font-weight: 700;
   text-transform: uppercase;
-  background-image: none;
   margin: 62px auto 60px;
   padding: 0 77px;
 }
